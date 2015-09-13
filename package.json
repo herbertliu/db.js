@@ -1,0 +1,27 @@
+{
+  "name": "db.js",
+  "version": "0.0.9",
+  "description": "db.js for mobile & pc. the core for db.js that you can extend it in anywhere.",
+  "keywords": [],
+  "homepage": "",
+  "author": "herbertliu <herbertliuhb@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "lego": {
+    "category": "25",
+    "categoryName": "Jquery",
+    "main": "index.js",
+    "dependencies": {
+      "zepto":"1.1.6"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
